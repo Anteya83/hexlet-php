@@ -1,0 +1,15 @@
+{
+    "name": "anteya/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Anteya\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anteya",
+            "email": "l77uck@ya.ru"
+        }
+    ],
+    "require": {}
+}
