@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Anteya\\HexletPhp\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
@@ -11,5 +14,7 @@
             "email": "l77uck@ya.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
